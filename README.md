@@ -1,6 +1,7 @@
-# Hi, I'm a Robotics Engineer 👋
+# Hi 👋
 
 🎓 **MSc in Robotics Engineering**
+
 🤖 Passionate about Robotics, Autonomous Systems, and Intelligent Control.
 
 I enjoy bridging theory and real-world robotics, from mathematical modeling and state estimation to control algorithms deployed on physical systems.

@@ -1,31 +1,13 @@
-# Hi 👋
+# Hi, I'm Paolo 👋
 
-🎓 **MSc in Robotics Engineering**
+MSc in Robotics Engineering at the University of Genoa. Thesis research at **DTU** on underwater ROV estimation and control.
 
-🤖 Passionate about Robotics, Autonomous Systems, and Intelligent Control.
+I work on state estimation, model-based control and real-time systems, from modeling to deployment on physical robots.
 
-I enjoy bridging theory and real-world robotics, from mathematical modeling and state estimation to control algorithms deployed on physical systems.
+## Projects
 
-### 🔬 Interests
-- Marine robotics & autonomous systems
-- State estimation & sensor fusion
-- System identification & model-based control
-- Embedded systems & real-time robotics
-
-### 💻 Programming Languages
-`C` · `C++` · `Python` · `MATLAB` · `Java`
-
-### 🛠️ Frameworks & Tools
-`ROS2` · `Gazebo` · `MATLAB/Simulink` · `Docker` · `Git` · `Foxglove`
-
-### ⚙️ Technical Skills
-- **Estimation:** Error-State Kalman Filters, quaternion attitude estimation, sensor fusion
-- **Control:** Feedback linearization, PID, pole placement, anti-windup
-- **System Identification:** Nonlinear grey-box modeling, parameter estimation, model validation
-- **Embedded Systems:** Real-time firmware, microcontrollers, PWM, UART, interrupts
-- **Robotics Integration:** MAVLink, ArduSub, sensor calibration, simulation-to-hardware deployment
-
-### 🏆 Highlights
-- MSc thesis research at **DTU**, working on underwater ROV estimation and control
-- **2nd place overall** & **Best Newcomer Award** — RAMI Underwater Robotics Competition 2025
-
+- 🌊 [**cooperative_robotics**](https://github.com/paololais/cooperative_robotics): task-priority control for an underwater vehicle-manipulator system, plus bimanual and cooperative manipulation with two Franka Panda arms
+- 🧭 [**ros2-symbolic-planning-aruco-robot**](https://github.com/paololais/ros2-symbolic-planning-aruco-robot): PDDL task planning with PlanSys2 and Nav2, tested in Gazebo and on a ROSbot
+- 👁️ [**ros2-autonomous-aruco-detection**](https://github.com/paololais/ros2-autonomous-aruco-detection): autonomous ArUco marker detection and visual centering with ROS 2
+- ⚙️ [**real-time-embedded-control-buggy**](https://github.com/paololais/real-time-embedded-control-buggy): C firmware for the MikroE BUGGY (dsPIC33E)
+- 🦾 [**robotic-inverse-kinematics-ml**](https://github.com/paololais/robotic-inverse-kinematics-ml): machine learning regression for ABB IRB 2400 inverse kinematics
